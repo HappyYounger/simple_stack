@@ -1,0 +1,3 @@
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/cmake-build-debug/CMakeFiles/simple_stack.dir

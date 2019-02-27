@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/main.c
+stdio.h
+-
+simple_stack.h
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/simple_stack.h
+
+/Users/yangguang/Documents/sunny/dev/workspaces/workspace-clion/simple_stack/simple_stack.h
+
